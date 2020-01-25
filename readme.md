@@ -1,0 +1,1 @@
+Kegunaan JSON pada RestAPI : JSON biasanya digunakan sebagai format standar untuk bertukar data antar aplikasi.
